@@ -1,6 +1,6 @@
-<h1 align="center">Olá 👋, Muito Prazer, Sou Ariel Xavier</h1>
-<h3 align="center">Apaixonado por Tecnologia</h3>
-<h3 align="center">Buscando minha Primeira Oportunidade na área de desenvolvimento.</h3>
+<h1 align="center">Olá, muito prazer, sou Ariel Xavier</h1>
+<h3 align="center">Apaixonado por tecnologia</h3>
+<h3 align="center">Buscando minha primeira oportunidade na área de desenvolvimento.</h3>
 <br />
 
 
@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/ariel-xavier-2b1960190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariel-xavier-2b1960190" height="30" width="40" /></a>
 </p>
-<h2 align="center">Linguagens e Ferramentas:</h2>
+<h2 align="center">Linguagens e ferramentas:</h2>
 <div>
   <h3 align="center">Front-end</h3>
   <p align="center">

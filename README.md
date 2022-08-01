@@ -1,6 +1,6 @@
-<h1 align="center">Olá, muito prazer, sou Ariel Xavier</h1>
-<h3 align="center">Apaixonado por tecnologia</h3>
-<h3 align="center">Buscando minha primeira oportunidade na área de desenvolvimento.</h3>
+<h1 align="center">Olá, muito prazer, sou Ariel Xavier!</h1>
+<h3 align="center">Sou apaixonado por tecnologia.</h3>
+<h3 align="center">Busco minha primeira oportunidade na área de desenvolvimento Web.</h3>
 <br />
 
 
